@@ -16,7 +16,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: https://juliacataldo.gibhub.io/files/CV_Cataldo.pdf
+    url: https://juliacataldo.github.io/files/CV_Cataldo.pdf
     
   - title: "Guide"
     url: /markdown/
