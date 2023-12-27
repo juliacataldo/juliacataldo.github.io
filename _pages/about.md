@@ -15,4 +15,4 @@ Before coming to NYU, I completed my undergrad in Languages (Linguistics, Portug
 
 In my free time, I like to read, to surf and to kitesurf. I also (try to) play the piano. 
 
-If you are a Latin student and are thinking about coming to the US for a PhD, I'll be happy to help. Fell free to email me. If you're a Brazilian, I also recommend this video, in which I talk about my motivation for coming and the application process.
+If you are a fellow Latinx student and are thinking about coming to the US for a PhD, I'll be happy to help. Fell free to email me. If you're a Brazilian, I also recommend this video, in which I talk about my motivation for coming and the application process.
