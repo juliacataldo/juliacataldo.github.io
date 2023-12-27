@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "------------- WEBSITE UNDER CONSTRUCTION ---------------"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-------------- WEBSITE UNDER CONSTRUCTION ---------------
 
 I'm a 1st year PhD student at NYU, advised by __. I'm interested in _______.
 
