@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Julia Cataldo"
+title                    : "About"
 title_separator          : "-"
-name                     : &name "Julia Cataldo"
+name                     : &name " "
 description              : &description "My academic website yay!"
 url                      : https://juliacataldo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter cataldoju
 facebook:
   username               :
   app_id                 :
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Julia Cataldo"
-  avatar           : "id_photo_zoomed.png"
-  bio              : "1st year Linguistics PhD Student at NYU"
+  name             : " "
+  avatar           : "fotojulia.jpg"
+  bio              : "2nd year Linguistics PhD Student at NYU"
   location         : "NYC"
   employer         :
   pubmed           : 
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-5676-6636"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "cataldoju"
   vine             :
   weibo            :
   xing             :
