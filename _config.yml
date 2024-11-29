@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : " "
-  avatar           : "fotojulia.jpg"
+  avatar           : "fotojulia_zoomed.jpg"
   bio              : "2nd year Linguistics PhD Student at NYU"
   location         : "NYC"
   employer         :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  lattes           : "http://lattes.cnpq.br/6129258933971959"
 
 
 # Reading Files
