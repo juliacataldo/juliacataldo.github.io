@@ -118,9 +118,9 @@
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
-      {% if site.author.lattes %}
-        <li></li><a href="{{ site.author.lattes }}" target="_blank">Lattes</a></li>
-{% endif %}
+      {% if author.lattes %}
+        <li><a href="{{ author.lattes }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Lattes</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>
