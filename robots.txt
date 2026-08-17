@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://juliacataldo.github.io/website/sitemap.xml
+Sitemap: https://juliacataldo.github.io/sitemap.xml
