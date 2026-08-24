@@ -11,8 +11,8 @@ profile:
   image: julia-cataldo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-  <p><em>[ˈʒu.ljɐ kaˈtaw.du]</em></p>
-  <p><a href="mailto:julia.cataldo@nyu.edu">julia.cataldo@nyu.edu</a></p>
+    <p><em>[ˈʒu.ljɐ kaˈtaw.du]</em></p>
+    <p><a href="mailto:julia.cataldo@nyu.edu">julia.cataldo@nyu.edu</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
