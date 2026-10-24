@@ -3,7 +3,7 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 
 email: julia.cataldo@nyu.edu # your email address
-cv_pdf: /assets/pdf/CV_JuliaCataldo.pdf # path to your CV PDF file
+cv_pdf: https://docs.google.com/document/d/13QbEjgNAF6S-kHGt6294efbv9dPg8nTf-lvrr2hg00A/preview # path to your CV PDF file
 scholar_userid: WXfB37oAAAAJ # your Google Scholar ID
 github_username: juliacataldo
 orcid_id: 0000-0001-5676-6636
