@@ -9,8 +9,7 @@ last_name: Cataldo
 # contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal academic website of Julia Cataldo, PhD candidate in Linguistics at NYU.
-footer_text: >  
-  © 2026 Julia Cataldo
+footer_text: >
 # keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧠 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
